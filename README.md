@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 
 
 #### Database/State
-[MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?style=for-the-badge&logo=mariadb)
