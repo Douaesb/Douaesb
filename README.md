@@ -73,8 +73,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a passion for 
 
 
 ## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=Douaesb&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douaesb&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
